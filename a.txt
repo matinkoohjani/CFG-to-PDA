@@ -1,0 +1,3 @@
+S->aSPCP|aSPP|q
+C->c
+P->p
